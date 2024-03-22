@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512239).
-* Наставник: `Неизвестно`.
+* Студент: [Анастасия Пезикова](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512239).
+* Наставник: `Антон Варнавский`.
 
 ---
 
